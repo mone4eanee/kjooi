@@ -84,11 +84,11 @@
         {
             "images" :
             [
-                { "image" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/quizimage/gif/1.gif" },
-                { "image" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/quizimage/gif/2.gif" },
-                { "image" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/quizimage/gif/3.gif" },
-                { "image" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/quizimage/gif/4.gif" },
-                { "image" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/quizimage/image/1.jpg" }
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/1.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/2.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/3.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/4.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/image/2.jpg" }
             ],
             "answers" :
             [
