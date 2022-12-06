@@ -7,8 +7,8 @@
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "204703142",
 
-            "int_interval" : 5,
-            "activate_ads" : "false",
+            "int_interval" : 3,
+            "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "",
@@ -111,7 +111,7 @@
     
     "menu" : [
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
@@ -142,7 +142,7 @@
             "bg" : "#4ADE80"
         },{
             "active" : "true",
-            "name" : "false",
+            "name" : "wallpapers",
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m6.png",
             "bg" : "#2196F3"
         },{
