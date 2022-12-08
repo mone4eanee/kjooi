@@ -7,7 +7,7 @@
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "204703142",
 
-            "int_interval" : 3,
+            "int_interval" : 2,
             "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
@@ -121,7 +121,7 @@
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m1.png",
             "bg" : "#FBBF24"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "spinner",
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m2.png",
             "bg" : "#A3E635"
