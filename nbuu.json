@@ -151,7 +151,7 @@
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m7.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "games",
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m8.png",
             "bg" : "#673AB7"
