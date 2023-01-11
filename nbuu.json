@@ -121,7 +121,7 @@
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m1.png",
             "bg" : "#FBBF24"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "spinner",
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m2.png",
             "bg" : "#A3E635"
