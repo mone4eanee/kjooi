@@ -7,9 +7,9 @@
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "204703142",
 
-            "int_interval" : 2,
+            "int_interval" : 4,
             "activate_ads" : "true",
-            "activate_steps" : "true",
+            "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "",
             "network" : "is",
@@ -151,7 +151,7 @@
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m7.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "games",
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m8.png",
             "bg" : "#673AB7"
