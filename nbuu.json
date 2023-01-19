@@ -111,7 +111,7 @@
     
     "menu" : [
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
@@ -121,7 +121,7 @@
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m1.png",
             "bg" : "#FBBF24"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "spinner",
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m2.png",
             "bg" : "#A3E635"
@@ -131,17 +131,17 @@
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m3.png",
             "bg" : "#38BDF8"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m4.png",
             "bg" : "#2DD4BF"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m5.png",
             "bg" : "#4ADE80"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "wallpapers",
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m6.png",
             "bg" : "#2196F3"
@@ -151,7 +151,7 @@
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m7.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "games",
             "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m8.png",
             "bg" : "#673AB7"
